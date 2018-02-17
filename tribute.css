@@ -1,0 +1,20 @@
+#title{
+    font-style: oblique;
+}
+#para{
+    font-family: Verdana;
+    
+}
+.body{
+    font-style: normal;
+}
+.container{
+    background-color: rgb(219, 217, 215);
+}
+.center{
+    text-align: center;
+}
+/* #image{
+
+}  */
+
