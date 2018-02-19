@@ -8,16 +8,15 @@
 .body{
     font-style: normal;
 }
-/* .container{
-    background-color: rgb(219, 217, 215);
-} */
+
 .center{
     text-align: center;
     background-color: rgba(126, 122, 122, 0.87);
 }
-/* #image{
-
-}  */
+.image{
+    height: auto;
+    width: auto;
+}
 .h4{
 text-align: justify;
 }
